@@ -4,7 +4,7 @@
 ## USN: 23BTRCL217
 
 
-#### Introduction to Devops
+## Introduction to Devops
 
 
 
@@ -12,7 +12,7 @@
 ![image](https://github.com/user-attachments/assets/68e36699-56a7-4956-b081-f6d022f9400b)
 
 
-#### Course Progress
+## Course Progress
 
 
 
@@ -21,7 +21,7 @@
 
 
 
-#### Course Certificate
+## Course Certificate
 
 
 
